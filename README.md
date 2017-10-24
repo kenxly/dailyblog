@@ -1,6 +1,9 @@
-# dailyblog
- <person-list>
-   <person>xx</person>
-   <email>xx@gmail.com></email>   
-   <person>xx</person>
- </person-list>
+#dailyblog's Project Template
+
+About this template
+Assumptions
+Copy the template
+Configure the project
+Bootstrap issues
+Develop with the template
+About this template
